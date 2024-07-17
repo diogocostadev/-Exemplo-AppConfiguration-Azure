@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+exemplos.recursos.azure/Properties/launchSettings.json
+
+.idea/
