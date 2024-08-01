@@ -1,6 +1,6 @@
 ### README.md
 
-```markdown
+
 # Exemplos de Recursos Azure com C#
 
 Este repositório contém exemplos de como utilizar diferentes recursos do Azure com C#, utilizando .NET 8 e top-level statements. O foco principal é demonstrar como integrar e gerenciar configurações usando o Azure App Configuration.
@@ -67,7 +67,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
+
 
 ### LICENSE
 
